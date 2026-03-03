@@ -1,0 +1,23 @@
+# Connect IQ 编译输出
+bin/
+*.prg
+*.prg.debug.xml
+
+# IDE 配置
+.project
+.settings/
+.vscode/
+.idea/
+
+# 开发者密钥
+keys/
+developer_key
+*.der
+*.pem
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 日志文件
+*.log
